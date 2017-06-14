@@ -1,0 +1,8 @@
+@font-face {
+  font-family: ‘VisbyRoundCF-Regular’;
+  src: local(‘VisbyRoundCF-Regular’), url(./fonts/VisbyRoundCF-Regular.woff) format(‘woff’);
+}
+
+p, h1, h2, h3, div {
+    font-family: ‘VisbyRoundCF-Regular’;
+}

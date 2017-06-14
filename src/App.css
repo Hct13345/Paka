@@ -1,0 +1,60 @@
+/*This is the background picture for the site*/
+.background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 850px;
+  background-image: url('./background.jpg');
+  background-size: cover;
+}
+
+/*Contains Email Input Box & Sign Up Button*/
+.centerbox {
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 200px;
+  text-align: center;
+}
+
+/*This puts the PakaLogo above centerbox*/
+p1 {
+  margin-bottom: 300px;
+}
+.App {
+  text-align: center;
+}
+
+.ref_background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./front page.jpg');
+  background-size: cover;
+  height: 700px;
+}
+
+.referralpage {
+  font-family: myFirstFont;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 350px;
+  text-align: center;
+}
+
+.subtext {
+  color: white;
+}
+
+.counterbox {
+
+}
+
+.counter {
+  color: white;
+}
+
+.sharebutton {
+  width: 100px;
+}
